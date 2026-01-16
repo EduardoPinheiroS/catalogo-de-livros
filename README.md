@@ -30,7 +30,7 @@ Siga o passo a passo abaixo para rodar o projeto em seu ambiente local:
 
 ### 1️⃣ Inicializando o Servidor (API)
 Abra o seu terminal no VS Code e execute os seguintes comandos:
-```bash
+
 cd livro-servidor
 npm install
 npm start
@@ -39,7 +39,6 @@ Atenção: Certifique-se de que o servidor está ativo em http://localhost:3005.
 2️⃣ Inicializando a Interface (Web)
 Abra um segundo terminal (para manter o servidor rodando) e execute:
 
-Bash
 
 cd livro-web
 npm install
