@@ -32,17 +32,22 @@ Siga o passo a passo abaixo para rodar o projeto em seu ambiente local:
 Abra o seu terminal no VS Code e execute os seguintes comandos:
 
 cd livro-servidor
+
 npm install
+
 npm start
+
 Atenção: Certifique-se de que o servidor está ativo em http://localhost:3005.
 
 2️⃣ Inicializando a Interface (Web)
 Abra um segundo terminal (para manter o servidor rodando) e execute:
 
-
 cd livro-web
+
 npm install
+
 npm start
+
 Atenção: A aplicação será carregada no navegador em http://localhost:3000.
 
 📂 Organização do Repositório
@@ -63,5 +68,11 @@ Editora e lista de Autores.
 
 Funcionalidade de Inclusão e Exclusão de livros.
 
-Desenvolvido por Eduardo Pinheiro 🎓
+Desenvolvido por Eduardo Pinheiro 🎓 
+
+Disciplina: Integracao de Paginas Web Com Banco de Dados 
+
+Instituição: Estácio 
+
+Data: 16 de Janeiro de 2026
 
